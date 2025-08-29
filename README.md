@@ -1,4 +1,4 @@
-# 🕵️ Fake Review Detector
+# Fake Review Detector
 by Muhammad Aminu Umar(WebCodeLab)
 
 A complete end-to-end machine learning project to detect fake product reviews using natural language processing (NLP) and classical classification models.
